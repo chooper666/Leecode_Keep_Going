@@ -4,7 +4,7 @@
 #### 20240223 2583题（秒） [题目链接](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/description/)
 #### 20240224 2476题（笨拙的用二分，需要再熟练） [题目链接](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/description/)
 #### 20240225 235题（空间不是O1） [题目链接](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-
+#### 20240226 938题（秒） [题目链接](https://leetcode.cn/problems/range-sum-of-bst/description/)
 
 
 
