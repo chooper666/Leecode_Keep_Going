@@ -6,8 +6,7 @@
 #### 20240225 235题（空间不是O1） [题目链接](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 #### 20240226 938题（秒） [题目链接](https://leetcode.cn/problems/range-sum-of-bst/description/)
 #### 20240227 322题（秒） [题目链接](https://leetcode.cn/problems/coin-change/description/?envType=study-plan-v2&envId=top-100-liked)
-#### 20240228 2673题（思路很巧妙，自己的方法麻烦（空间不是o1），使用的是找到最长路径与其他路径一一匹配） [题目链接]([https://leetcode.cn/problems/coin-change/description/?envType=study-plan-v2&envId=top-100-liked](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)
-
+#### 20240228 2673题（思路很巧妙，自己的方法麻烦（空间不是o1），使用的是找到最长路径与其他路径一一匹配） [题目链接](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)
 
 
 
