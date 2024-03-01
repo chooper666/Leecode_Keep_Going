@@ -8,7 +8,7 @@
 #### 20240227 322题（秒） [题目链接](https://leetcode.cn/problems/coin-change/description/?envType=study-plan-v2&envId=top-100-liked)
 #### 20240228 2673题（思路很巧妙，自己的方法麻烦（空间不是o1），使用的是找到最长路径与其他路径一一匹配） [题目链接](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)
 #### 20240229 2581题（没思路，第一次学树状dp） [题目链接](https://leetcode.cn/problems/count-number-of-possible-root-nodes/description/) 22题（秒）[题目链接](https://leetcode.cn/problems/generate-parentheses/description/?envType=study-plan-v2&envId=top-100-liked)
-
+#### 20240301 2369题（没全ac，dp题） [题目链接](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/description/)
 
 
 
