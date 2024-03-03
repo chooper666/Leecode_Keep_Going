@@ -10,6 +10,9 @@
 #### 20240229 2581题（没思路，第一次学树状dp） [题目链接](https://leetcode.cn/problems/count-number-of-possible-root-nodes/description/) 22题（秒）[题目链接](https://leetcode.cn/problems/generate-parentheses/description/?envType=study-plan-v2&envId=top-100-liked)
 #### 20240301 2369题（没全ac，dp题） [题目链接](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/description/)
 #### 20240302 2368题（没全ac，考虑成逆着来了） [题目链接](https://leetcode.cn/problems/reachable-nodes-with-restrictions/description/)
+#### 20240303 225题  [题目链接](https://leetcode.cn/problems/implement-stack-using-queues/description/)
+
+
 
 
 
