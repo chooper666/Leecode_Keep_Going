@@ -14,6 +14,14 @@
 #### 20240304 232题（秒）  [题目链接](https://leetcode.cn/problems/implement-queue-using-stacks/description/)  201题（位运算trick） [题目链接](https://leetcode.cn/problems/bitwise-and-of-numbers-range/description/?envType=study-plan-v2&envId=top-interview-150)
 #### 20240305 1976题（dijstra,全忘了）  [题目链接](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/description/)
 #### 20240306 2917题（秒）[题目链接](https://leetcode.cn/problems/find-the-k-or-of-an-array/description/)
+#### 20240307 2575题（用点trick） [题目链接](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/description/)
+
+
+
+
+
+
+
 
 
 
