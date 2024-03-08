@@ -15,7 +15,7 @@
 #### 20240305 1976题（dijstra,全忘了）  [题目链接](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/description/)
 #### 20240306 2917题（秒）[题目链接](https://leetcode.cn/problems/find-the-k-or-of-an-array/description/)
 #### 20240307 2575题（用点trick） [题目链接](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/description/)
-
+#### 20240308 2834题（数学trick） [题目链接](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/)
 
 
 
