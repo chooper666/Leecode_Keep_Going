@@ -18,7 +18,7 @@
 #### 20240308 2834题（数学trick） [题目链接](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/)
 #### 20240309 2386题（难中难，反应出dijstra和堆还不够熟练） [题目链接](https://leetcode.cn/problems/find-the-k-sum-of-an-array/description/)
 #### 20240310 299题（秒） [题目链接](https://leetcode.cn/problems/bulls-and-cows/description/)
-
+#### 20240311 2129题（秒） [题目链接](https://leetcode.cn/problems/capitalize-the-title/description/)
 
 
 
