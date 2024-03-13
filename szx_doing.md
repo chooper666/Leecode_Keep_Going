@@ -20,7 +20,7 @@
 #### 20240310 299题（秒） [题目链接](https://leetcode.cn/problems/bulls-and-cows/description/)
 #### 20240311 2129题（秒） [题目链接](https://leetcode.cn/problems/capitalize-the-title/description/)
 #### 20240312 1261题（秒） [题目链接](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/description/)
-
+#### 20240313 2864题（秒） [题目链接](https://leetcode.cn/problems/maximum-odd-binary-number/description/)
 
 
 
