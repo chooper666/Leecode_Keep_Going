@@ -21,6 +21,8 @@
 #### 20240311 2129题（秒） [题目链接](https://leetcode.cn/problems/capitalize-the-title/description/)
 #### 20240312 1261题（秒） [题目链接](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/description/)
 #### 20240313 2864题（秒） [题目链接](https://leetcode.cn/problems/maximum-odd-binary-number/description/)
+#### 20240314 2789题（没思路，得靠trick） [题目链接](https://leetcode.cn/problems/largest-element-in-an-array-after-merge-operations/description/)
+
 
 
 
