@@ -24,6 +24,10 @@
 #### 20240314 2789题（没思路，得靠trick） [题目链接](https://leetcode.cn/problems/largest-element-in-an-array-after-merge-operations/description/)
 #### 20240315 2312题（没思路复杂多维dp） [题目链接](https://leetcode.cn/problems/selling-pieces-of-wood/description/)
 #### 20240316 2684题（用dp试出来了，题解都是dfs/bfs） [题目链接](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid/description/)
+#### 20240318 303题（秒） [题目链接](https://leetcode.cn/problems/range-sum-query-immutable/description/)
+
+
+
 
 
 
