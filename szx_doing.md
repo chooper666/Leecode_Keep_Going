@@ -27,7 +27,7 @@
 #### 20240318 303题（秒） [题目链接](https://leetcode.cn/problems/range-sum-query-immutable/description/)
 #### 20240319 84题（单调栈，需要复习） [题目连接](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
 #### 20240320 1969题（trick+快速幂） [题目链接](https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/)
-
+#### 20240321 2671题（能撕） [题目链接](https://leetcode.cn/problems/frequency-tracker/description/)
 
 
 
