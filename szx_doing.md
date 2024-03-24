@@ -29,7 +29,7 @@
 #### 20240320 1969题（trick+快速幂） [题目链接](https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/)
 #### 20240321 2671题（能撕） [题目链接](https://leetcode.cn/problems/frequency-tracker/description/)
 #### 20240322 2617题（hard，困难级别，单调栈+二分优化dp）[题目链接](https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid/description/)
-
+#### 20240323-0326 巩固hot100
 
 
 
