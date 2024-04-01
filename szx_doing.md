@@ -32,7 +32,7 @@
 #### 20240323-0326 巩固hot100
 #### 20240327 8题（边界恶心点） [题目链接](https://leetcode.cn/problems/string-to-integer-atoi/description/)
 #### 20240328 394题（边界恶心） [题目链接](https://leetcode.cn/problems/decode-string/description/)
-
+#### 20240401 2810题（模拟，想到on不容易）[题目链接](https://leetcode.cn/problems/faulty-keyboard/description/)
 
 
 
